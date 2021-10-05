@@ -2,5 +2,6 @@ Regnbuen
 
 Lilla
 Blå
+Rød
 Grøn
 Orange
