@@ -5,3 +5,4 @@ Blå
 Rød
 Grøn
 Orange
+Gul
